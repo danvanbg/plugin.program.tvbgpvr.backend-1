@@ -10,3 +10,8 @@
   b) Set EPG url to:
   
     https://is.gd/tvbgepg
+
+    
+*************************************************************************    
+New project: Demo live, full launch in September — https://www.aviotix.eu
+*************************************************************************
